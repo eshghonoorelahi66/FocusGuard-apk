@@ -1,1 +1,0 @@
--keep class com.focusguard.app.engine.AppBlockerService { *; }
